@@ -1,2 +1,2 @@
 # public
-This space contains work from poblem sets in Harvard's CS50: Introduction to Computer Science Course.
+This space contains work from poblem sets in Harvard's CS50: Introduction to Computer Science Course (2022).
